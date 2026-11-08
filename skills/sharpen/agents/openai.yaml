@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sharpen"
+  short_description: "Upgrade a rough question into a better one, then answer it"
+  default_prompt: "Use $sharpen on this question: "
