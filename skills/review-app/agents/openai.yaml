@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review App"
+  short_description: "Goal-first app review, QC and verified fix loop"
+  default_prompt: "Use $review-app to review this app from its goal to a verified fix."
